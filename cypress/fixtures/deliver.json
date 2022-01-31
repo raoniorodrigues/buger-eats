@@ -1,0 +1,51 @@
+{
+    "signup": {
+        "name": "Raoni Rodrigues QA",
+        "cpf": "13722478073",
+        "email": "raoni.rodriguess@gmail.com",
+        "whatsapp": "11933400902",
+        "address": {
+            "postalcode": "06325040",
+            "street": "Rua Guanabara",
+            "number": "14",
+            "details": "Apartamento 31",
+            "district": "Conjunto Habitacional Presidente Castelo Branco",
+            "city": "Carapicuíba/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "cpf_inv":{
+        "name": "Raoni Rodrigues QA",
+        "cpf": "as3d213as21d",
+        "email": "raoni.rodriguess@gmail.com",
+        "whatsapp": "11933400902",
+        "address": {
+            "postalcode": "06325040",
+            "street": "Rua Guanabara",
+            "number": "14",
+            "details": "Apartamento 31",
+            "district": "Conjunto Habitacional Presidente Castelo Branco",
+            "city": "Carapicuíba/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv":{
+        "name": "Raoni Rodrigues QA",
+        "cpf": "13722478073",
+        "email": "raoni.rodriguess.com",
+        "whatsapp": "11933400902",
+        "address": {
+            "postalcode": "06325040",
+            "street": "Rua Guanabara",
+            "number": "14",
+            "details": "Apartamento 31",
+            "district": "Conjunto Habitacional Presidente Castelo Branco",
+            "city": "Carapicuíba/SP"
+        },
+        "metodo_entrega": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
