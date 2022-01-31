@@ -9,7 +9,7 @@ export default {
         var lasttName = faker.name.lastName()
 
         var data = {
-            name: firstName,
+            name: `${firstName} ${lasttName}`,
             cpf: cpf.generate(),
             email: faker.internet.email(firstName),
             whatsapp: '11933400902',

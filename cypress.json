@@ -2,5 +2,5 @@
     "viewportWidth": 1000,
     "viewportHeight": 660,
     "baseUrl": "https://buger-eats-qa.vercel.app",
-    "video": false
+    "video": true
 }
